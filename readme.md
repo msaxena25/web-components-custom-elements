@@ -50,7 +50,7 @@ http://127.0.0.1:5500/wc-form.js
 
 ```
 
-4. import this in your commment like -
+4. import this in your component like -
 
  ```
  import 'web-components-custom-elements';
