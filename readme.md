@@ -16,10 +16,12 @@ http://127.0.0.1:5500/wc-form.js
 
 2. Use these URLs in script tag of another application inside index.html, where you want to use like -
 
-    <script src="http://127.0.0.1:5500/green-button.js"></script>
+  ```
+  <script src="http://127.0.0.1:5500/green-button.js"></script>
     <script src="http://127.0.0.1:5500/red-button.js"></script>
     <script src="http://127.0.0.1:5500/dynamic-button.js"></script>
     <script src="http://127.0.0.1:5500/wc-form.js"></script>
+  ```
 
 3. Embed these web components in your component like -
 
