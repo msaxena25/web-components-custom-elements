@@ -1,6 +1,6 @@
 {
   "name": "web-components-custom-elements",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "this is web components learning project",
   "main": "index.js",
   "scripts": {
